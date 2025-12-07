@@ -1,0 +1,13 @@
+*{
+    font-family: "Roboto", sans-serif;
+}
+h1, h2{
+     font-family: "Bebas Neue", sans-serif;
+}
+.container{
+    width: 100%;
+    margin: 0 auto;
+}
+.button-linear-gradiant{
+    background: linear-gradient(180.00deg, rgba(164, 188, 70, 1),rgba(132.84, 160.44, 24.73, 1) 100%);
+}
